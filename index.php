@@ -100,11 +100,25 @@ include("A05/connect.php");
           <div class="card my-3 shadow" style="width: 100%; border-radius: 15px; overflow: hidden;">
             <img src="assets/insideout.jpg" class="card-img-top" alt="Canon Brochure" style="height: 300px; object-fit: cover;">
             <div class="card-body d-flex flex-column text-center justify-content-between">
-              <h5 class="card-title">Tri-Fold Brochure</h5>
+              <h5 class="card-title">Inside Out</h5>
               <p class="card-text">
-                A Canon tri-fold A4 brochure that showcases the system's attributes and characteristics.
+              Core memories shape who we are
               </p>
               <a class="btn btn-outline-secondary fw-bold rounded-3" href="A05/index.php">
+                View Project
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 d-flex justify-content-center align-items-center">
+          <div class="card my-3 shadow" style="width: 100%; border-radius: 15px; overflow: hidden;">
+            <img src="F01/assets/USAAthletes.jpg" class="card-img-top" alt="Canon Brochure" style="height: 300px; object-fit: cover;">
+            <div class="card-body d-flex flex-column text-center justify-content-between">
+              <h5 class="card-title">USA Athletes</h5>
+              <p class="card-text">
+               A dedicated Athlete from USA
+              </p>
+              <a class="btn btn-outline-secondary fw-bold rounded-3" href="F01/index.php">
                 View Project
               </a>
             </div>
